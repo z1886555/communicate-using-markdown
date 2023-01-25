@@ -6,3 +6,6 @@
 SELECT column1, column2
 FROM table_name;
 ```
+- [x] This is my first time using GitHub
+- [x] This item is complete
+- [ ] This item is not complete
